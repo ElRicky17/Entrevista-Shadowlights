@@ -1,0 +1,26 @@
+{
+  "last": {
+    "start": "2025-06-01",
+    "end": "2025-06-30",
+    "spend": 285036.15,
+    "conversions": 9562,
+    "revenue": 956200.0,
+    "CAC": 29.81,
+    "ROAS": 3.35
+  },
+  "prior": {
+    "start": "2025-05-02",
+    "end": "2025-05-31",
+    "spend": 270822.66,
+    "conversions": 8392,
+    "revenue": 839200.0,
+    "CAC": 32.27,
+    "ROAS": 3.1
+  },
+  "deltas": {
+    "spend_delta_pct": 5.25,
+    "conversions_delta_pct": 13.94,
+    "CAC_delta_pct": -7.62,
+    "ROAS_delta_pct": 8.06
+  }
+}
